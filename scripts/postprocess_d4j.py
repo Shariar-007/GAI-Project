@@ -10,7 +10,7 @@ import glob
 import subprocess as sp
 import argparse
 import d4j_util
-
+import time
 
 def inject_prefix_rootdir(proj, bug_id):
     rpath = d4j_util.repo_path(proj, bug_id)
@@ -216,6 +216,8 @@ def twover_run_experiment(proj, bug_id, example_tests, injection=True):
     return final_results
 
 if __name__ == '__main__':
+    start_time = time.time()
+
     parser = argparse.ArgumentParser()
     parser.add_argument('-p', '--project', default='Time')
     parser.add_argument('-b', '--bug_id', type=int, default=18)
@@ -295,3 +297,6 @@ if __name__ == '__main__':
             example_test = test_content
         # example experiment execution
         print(twover_run_experiment(args.project, args.bug_id, [example_test]))
+    end_time = time.time()
+    elapsed = end_time - start_time
+    print(f"\nTotal time elapsed: {elapsed:.2f} seconds ({elapsed/60:.2f} minutes)")
