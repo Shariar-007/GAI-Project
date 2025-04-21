@@ -1,0 +1,934 @@
+{
+    "Time_16_n0.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n1.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n10.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n11.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n12.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n13.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n14.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n15.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n16.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n17.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n18.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n19.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n2.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n20.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n21.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n22.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n23.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n24.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n25.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n26.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n27.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n28.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n29.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n3.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n30.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n31.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n32.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n33.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n34.txt": "[error] JavaSyntaxError('')",
+    "Time_16_n35.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n36.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n37.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n38.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n39.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n4.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n40.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n41.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n42.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n43.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n44.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n45.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n46.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n47.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n48.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n49.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n5.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n6.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n7.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n8.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    },
+    "Time_16_n9.txt": {
+        "buggy": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "fixed": {
+            "compile_error": true,
+            "runtime_error": false,
+            "failed_tests": [],
+            "autogen_failed": false,
+            "fib_error_msg": null,
+            "compile_msg": ""
+        },
+        "success": false
+    }
+}
